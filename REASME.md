@@ -13,3 +13,4 @@ AWSを使用しインフラ構築を行いました。
  </a>
 </p>
 https://drive.google.com/file/d/1aNX30JAQBgj681TwVgOictigasoQj0Zb/view?usp=sharing
+![構成図](https://user-images.githubusercontent.com/112589360/192640886-a7d5c902-fa1c-442b-bfac-cdc1edd16ebd.jpg)
