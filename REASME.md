@@ -8,8 +8,8 @@ AWSを使用しインフラ構築を行いました。
  # 構成図
 </h1>
 <p align="center">
- <a href="https://drive.google.com/file/d/15NjABwqcY2fewz90BMHDuI_ikAIcPUS-/view?usp=sharing">
-  <img width="100px" src="(https://drive.google.com/file/d/15NjABwqcY2fewz90BMHDuI_ikAIcPUS-/view?usp=sharing)" />
+ <a href="https://drive.google.com/file/d/1aNX30JAQBgj681TwVgOictigasoQj0Zb/view?usp=sharing">
+  <img width="100px" src="(https://drive.google.com/file/d/1aNX30JAQBgj681TwVgOictigasoQj0Zb/view?usp=sharing)" />
  </a>
 </p>
-https://drive.google.com/file/d/15NjABwqcY2fewz90BMHDuI_ikAIcPUS-/view?usp=sharing
+https://drive.google.com/file/d/1aNX30JAQBgj681TwVgOictigasoQj0Zb/view?usp=sharing
